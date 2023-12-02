@@ -1,8 +1,8 @@
 # Notebooking
 For 3388C Notebooking when im lazy
 
-#Title:
-##Description:
+# Title:
+## Description:
 Date:
 Name:
 Witnesses:
