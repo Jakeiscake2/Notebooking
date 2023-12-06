@@ -10,12 +10,11 @@ I think that the notebook is good enough for now
 
 To do for next time
 -
-- Double check wings and see how to make it stronger/more stable
-- Add wings on other side
 - Help with blocker
 - Think about interviews
 - Add backplate/pcb for wings
 - Check up on catapult
+- PCB for intake
 
 To Do 
 -
@@ -23,3 +22,13 @@ To Do
 - Turn to degree
 - CAD
 - Notebook
+
+Let eric do cata
+Switch between henry with wings and intake and drivetrain and daniel with blocker
+Ruben? maybe general parts
+
+Double check intake
+code auton and driver control
+check stability and bracing
+
+btw me and vince dont talk (driver and coder)
