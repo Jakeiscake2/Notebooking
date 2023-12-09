@@ -6,7 +6,8 @@ Witnesses: Daniel, Henry, Ruben, Eric, Yulian <br>
 
 Did work on bot today
 
-####Wings
+#### Wings
+
 Added wings on other side, additionally, trying to move piston onto the bottom
 Also cut 7 hole c-channels and signed out some more for the future
 <figure>
@@ -15,19 +16,20 @@ Also cut 7 hole c-channels and signed out some more for the future
 </figure>
 <br>
 
-####Catapult
+#### Catapult
+
 Moved around screws for the catapult because there were many holes drilled for high strength which couldn't hold a screw.
 <figure>
-    <img src="https://github.com/Jakeiscake2/Notebooking/assets/93807082/10066e8c-7888-4c84-a4f8-42a75a0040af" width = auto height = "325"
+    <img src="https://github.com/Jakeiscake2/Notebooking/assets/93807082/e6cad9ee-ee49-49aa-b92b-30491a111f21" width = auto height = "325"
          alt="High strength hole in C-channel">
 </figure>
 <br>
 
-####Blocker
+#### Blocker
+
 Added screws onto the bearings for the blocker, also took out the 12 inch axles to put in screws joints for simpilicty and compactness. 
 <figure>
-    <img src="
-https://github.com/Jakeiscake2/Notebooking/assets/93807082/390654af-22c2-4889-8ebd-c632168f2f3c" width = auto height = "325"
+    <img src="https://github.com/Jakeiscake2/Notebooking/assets/93807082/032ab81f-afe6-4db3-8320-a0c730e016c7" width = auto height = "325"
          alt="Blocker without axle">
 </figure>
 <br>
