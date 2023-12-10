@@ -38,3 +38,7 @@ Shots look ok for now<br>
 </figure>
 <br>
 We put a stand on it so we can test easier. <br>
+
+https://github.com/Jakeiscake2/Notebooking/assets/93807082/5ab5dad1-a9c8-483d-9fa9-8053b00801c8
+Sorry about the poor quality btw.
+
