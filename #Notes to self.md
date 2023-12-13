@@ -7,7 +7,8 @@ Mechanum or H-Drive might be really good for sliding inbetween triballs
 
 the ideal bot is a wings on both sides, high elevation kicker (which also climbs and blocks) with intake that somehow goes to kicker when kicker is down
 
-I think that the notebook is good enough for now
+use multiple slop gears to shoot multiple triballs?
+
 
 To do for next time
 -
