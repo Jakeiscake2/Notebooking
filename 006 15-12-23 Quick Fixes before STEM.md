@@ -10,7 +10,7 @@ Catapult was finished but yet to be attached to the bot, so we added it and test
 Video of catapult shooting triball
 
 In addition, we made sure that our wings and intake work.
-Our wings were set up the wrong way at first, so we had to switch around the solenoids.
+Our wings were set up the wrong way at first, so we had to switch around the solenoids. Additionally, the right side of the wings were weaker than the left side. Not sure what we should fix.
 Our intake worked fine.
 
 We also made a simple autonamous program, but we didnt have a field and were unable to test it. To deal with this we created a varible called degreesPerInch which we would multiply the number of inches we would travel by when moving our motors. We also made a simpler one which could push 1 triball into any goal. 
