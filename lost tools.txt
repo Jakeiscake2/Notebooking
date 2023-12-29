@@ -1,0 +1,27 @@
+we have lost 
+1 green screwdriver
+1 red screwdriver
+1 ratchet
+
+Order some tools off of robosource
+
+We are rebuilding our entire bot - starting with our drivetrain
+
+Drivetrain specs:
+360 RPM, blue motor
+4 3.25 inch wheels on either side, 1 more than the previous bot
+This is to distribute the weight of our robot better, making it so that the robot sinks into the tiles a lot less
+When the robot sinks into the tiles, it would be like driving uphill for the entire match
+(draw diagram here)
+Hopefully with this new setup, our drive will be more efficient, theoretically giving our robot more speed and torque (which will perform better)
+
+We are also going to experiment with 2 new launching mechanisms:
+
+Kicker: Show some examples of some bots that have both.
+
+Diagram
+
+Flywheel:
+Diagram
+
+
