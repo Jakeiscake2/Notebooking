@@ -23,4 +23,4 @@ Overall we did pretty well, but there still are some things to work on
 |Intake got stuck on catapult| Similar to last point, maybe use flexwheel intake instead|
 |Overall organization (Messy Pit)| Have 1 person always at pit|
 
-Further tournament analysis in next page
+More in depth tournament analysis in next page
